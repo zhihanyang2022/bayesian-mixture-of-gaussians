@@ -9,7 +9,7 @@ Below is a run of the algorithm on the Old Faithful dataset. Iteration 0 means r
 
 At iteration 200, the expected mixing coefficients are zero except for two clusters.
 
-Do note that the clusters I obtained seem to be less concentrated (i.e., have "higher variance") than the ones obtained in the original text. This could be due to different prior choice since the original text doesn't give the prior values it used.
+Do note that the clusters I obtained seem to be less concentrated (i.e., have "higher variance") than the ones obtained in the original text. This could be due to different prior hyperparameters since the original text doesn't give the values of the prior hyperparameters it used.
 
 ![](/pngs/iter_0.png) | ![](/pngs/iter_1.png) | ![](/pngs/iter_5.png) | ![](/pngs/iter_200.png)
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
